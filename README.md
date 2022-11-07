@@ -17,6 +17,7 @@ apt install python3 python3-pip curl bash
 once complete you must download the script and ensure the execute permissions are set on the script. follow the steps below
 
 ***copy/paste the below command(s)***
+
 git clone https://github.com/salt431/tmobile-hotspot-throttle-bypass-for-linux.git
 
 cd tmobile-hotspot-throttle-bypass-for-linux
