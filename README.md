@@ -34,3 +34,4 @@ and your all set! you will now have unrestricted access to the internet without 
 
 
 
+![2022-11-06-234147_1366x768_scrot](https://user-images.githubusercontent.com/35209044/200228017-d3e171e4-1a22-4c9f-a926-47ffe87e1914.png)
