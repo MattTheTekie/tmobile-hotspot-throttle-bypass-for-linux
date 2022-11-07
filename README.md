@@ -7,7 +7,11 @@ to install the pre-requisites on a debian system run the following command
 
 
 ***copy/paste the below command***
+
+
 apt install python3 python3-pip curl bash
+
+
 ***copy/paste the above command***
 
 once complete you must download the script and ensure the execute permissions are set on the script. follow the steps below
